@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Chrome Extension with Vue",
+  "version": "1",
+  "author": "Bardia Ramez",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "default_locale": "en",
+  "icons": {
+    "16": "icons/icon.png",
+    "32": "icons/icon.png",
+    "48": "icons/icon.png",
+    "128": "icons/icon.png"
+  }
+}
